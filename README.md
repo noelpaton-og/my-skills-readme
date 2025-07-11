@@ -1,23 +1,43 @@
 # 👋 Hi, I'm Noel Paton-Og
 
-I'm a passionate and curious full-stack developer with a focus on building modern, responsive web applications. I enjoy turning ideas into efficient, scalable code and continuously exploring new technologies to grow as a developer.
+I'm a full-stack developer with a focus on building modern, responsive, and scalable web applications. I’m passionate about clean code, intuitive UI/UX, and continuous learning in the fast-evolving world of technology.
+
+---
+
+## 💼 About Me
+
+- 💻 Full-stack web developer working with JavaScript, TypeScript, and modern frameworks
+- 🚀 Passionate about solving real-world problems with code
+- 📚 Always learning — currently diving into backend architecture and DevOps practices
+- 🤝 Open to collaboration on exciting and impactful projects
+
+---
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,docker,github,mongodb,postgres,tailwind)](https://skillicons.dev)
+
+---
 
 ## 🟢 Currently Working On
 
-- Developing full-stack web applications using TypeScript and Node.js
-- Expanding my knowledge of cloud services (AWS, Firebase)
-- Learning advanced React patterns and backend architecture
-- Contributing to open-source projects
-- Exploring system design and DevOps fundamentals
+- 🔧 Building full-stack applications using React, Node.js, and TypeScript  
+- ☁️ Learning cloud deployment using AWS and Firebase  
+- 📦 Exploring CI/CD workflows and containerization with Docker  
+- 👨‍💻 Contributing to open-source projects and improving system design skills  
 
-## 📫 Let's Connect
+---
 
-Feel free to reach out or explore more of my work:
+## 📈 GitHub Stats
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
+![Noel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelpatonog&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelpatonog&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Website: [yourwebsite.dev](https://yourwebsite.dev)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
