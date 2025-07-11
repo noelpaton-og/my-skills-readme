@@ -1,17 +1,40 @@
-# 👋 Hi, I'm Noel Paton-Og
+<h1 align="center">👋 Hi, I'm Noel Paton-Og</h1>
 
-I'm a full-stack developer focused on building modern, responsive, and scalable web applications. I’m passionate about clean code, great UI/UX, and continuous learning in the ever-evolving world of technology.
+<p align="center">
+  Full-stack developer focused on building modern, responsive, and scalable web applications. Passionate about clean code, great UI/UX, and lifelong learning in tech.
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database |
-|----------|---------|----------|
-| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Supabase](https://skillicons.dev/icons?i=supabase) |
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,js" height="30" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,python" height="30" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase" height="30" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
-> 💡 *Icons powered by [SkillIcons.dev](https://skillicons.dev)*
+---
+
+> 💡 *Icons by [SkillIcons.dev](https://skillicons.dev)*  
