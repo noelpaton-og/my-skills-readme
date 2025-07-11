@@ -4,7 +4,7 @@ I'm a passionate and curious full-stack developer with a focus on building moder
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,github)](https://skillicons.dev)
 
 ## 🟢 Currently Working On
 
