@@ -6,20 +6,15 @@ I'm Noel Paton-Og — an application and web developer passionate about building
 
 ## 🛠 Tech Stack
 
-### Frontend  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-
-### Backend  
-![Java](https://skillicons.dev/icons?i=java)  
-![Kotlin](https://skillicons.dev/icons?i=kotlin)  
-![Python](https://skillicons.dev/icons?i=python)  
-
-### Database  
-![Firebase](https://skillicons.dev/icons?i=firebase)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![Supabase](https://skillicons.dev/icons?i=supabase)  
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Python](https://skillicons.dev/icons?i=python)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ---
 
