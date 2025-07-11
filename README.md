@@ -8,7 +8,7 @@ I'm a full-stack developer focused on building modern, responsive, and scalable 
 
 - 💻 Full-stack developer working with JavaScript, TypeScript, and Python  
 - 🛠️ Experienced with React, Node.js, and cloud platforms like AWS and Firebase  
-- 🚀 Currently expanding into DevOps and system design  
+- 🎯 Interested in DevOps, backend systems, and UI architecture  
 - 🤝 Open to freelance and collaborative projects
 
 ---
@@ -23,19 +23,11 @@ I'm a full-stack developer focused on building modern, responsive, and scalable 
 
 ---
 
-## 🟢 Currently Working On
-
-- 🔧 Building scalable full-stack applications with React, Node.js, and TypeScript  
-- ☁️ Learning cloud deployment pipelines with AWS & Firebase  
-- 🔄 Implementing CI/CD using GitHub Actions & Docker  
-- 📖 Deep-diving into software architecture and clean code principles  
-
----
-
 ## 📈 GitHub Stats
 
-![Noel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelpatonog&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelpatonog&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=noelpatonog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelpatonog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
 ---
 
