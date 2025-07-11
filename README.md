@@ -2,9 +2,6 @@
 
 I'm **Noel Paton-Og** — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
 
----
-
-## 🛠 Tech Stack
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -16,9 +13,6 @@ I'm **Noel Paton-Og** — an application and web developer passionate about buil
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
----
-
-## 🎧 Now
 
 ![Visual Studio Code](https://img.shields.io/badge/Currently-Coding-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Spotify](https://img.shields.io/badge/Listening-Nothing%20rn-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
