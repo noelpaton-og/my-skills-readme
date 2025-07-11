@@ -5,7 +5,7 @@ I'm passionate about building cool things with modern tech.
 
 ## 🚀 This is my tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,mongodb)](https://skillicons.dev)
 
 ## 🟢 Currently Online
 
