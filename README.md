@@ -1,8 +1,16 @@
-<h1 align="center">👋 Hi there, I'm Noel Paton-Og</h1>
-<h2 align="center">🚀 This is my tech stack</h2>
+# 👋 Hi there, I'm Noel Paton-Og
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-  </a>
-</p>
+Welcome to my GitHub!  
+I'm passionate about building cool things with modern tech.
+
+## 🚀 This is my tech stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github)](https://skillicons.dev)
+
+## 🟢 Currently Online
+
+- 🌐 Exploring new web technologies  
+- 🛠️ Building personal projects  
+- 📖 Learning TypeScript and backend APIs  
+- 💬 Open to collaboration and freelance work  
+- 🎯 Improving my full-stack development skills  
