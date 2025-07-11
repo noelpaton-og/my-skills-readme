@@ -1,45 +1,25 @@
-<h1 align="center">👋 Hi, I'm Noel Paton-Og</h1>
+# 👋 HI THERE  
 
-<p align="center">
-  Full-stack developer focused on building modern, responsive, and scalable web applications. Passionate about clean code, great UI/UX, and lifelong learning in tech.
-</p>
+I'm Noel Paton-Og — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
+### Frontend  
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
 
-<table>
-  <thead>
-    <tr>
-      <th style="padding: 10px;">Frontend</th>
-      <th style="padding: 10px;">Backend</th>
-      <th style="padding: 10px;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=html" height="40" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=java" height="40" />
-        <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
-        <img src="https://skillicons.dev/icons?i=python" height="40" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-        <img src="https://skillicons.dev/icons?i=supabase" height="40" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Backend  
+![Java](https://skillicons.dev/icons?i=java)  
+![Kotlin](https://skillicons.dev/icons?i=kotlin)  
+![Python](https://skillicons.dev/icons?i=python)  
 
-</div>
+### Database  
+![Firebase](https://skillicons.dev/icons?i=firebase)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![Supabase](https://skillicons.dev/icons?i=supabase)  
 
 ---
 
