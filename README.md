@@ -13,21 +13,27 @@
 <table>
   <thead>
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Database</th>
+      <th style="padding: 10px;">Frontend</th>
+      <th style="padding: 10px;">Backend</th>
+      <th style="padding: 10px;">Database</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js" height="30" />
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=html" height="40" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" />
+        <img src="https://skillicons.dev/icons?i=js" height="40" />
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,python" height="30" />
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=java" height="40" />
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
+        <img src="https://skillicons.dev/icons?i=python" height="40" />
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase" height="30" />
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+        <img src="https://skillicons.dev/icons?i=supabase" height="40" />
       </td>
     </tr>
   </tbody>
@@ -37,4 +43,4 @@
 
 ---
 
-> 💡 *Icons by [SkillIcons.dev](https://skillicons.dev)*  
+> 💡 *Icons by [SkillIcons.dev](https://skillicons.dev)*
