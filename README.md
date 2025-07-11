@@ -12,4 +12,4 @@ I'm Noel Paton-Og — an application and web developer passionate about building
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-![currently](https://img.shields.io/badge/status-online-green)
+![currently](https://img.shields.io/badge/playing-nothing%20rn-grey) ![VS Code](https://img.shields.io/badge/coding-yes-blue?logo=visual-studio-code) ![Status](https://img.shields.io/badge/status-yes-green)
