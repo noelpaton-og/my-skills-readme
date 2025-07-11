@@ -16,5 +16,5 @@ I'm **Noel Paton-og** — an application and web developer passionate about buil
 
 ![Visual Studio Code](https://img.shields.io/badge/Currently-Coding-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Spotify](https://img.shields.io/badge/Listening-Nothing%20rn-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
-![Status](https://img.shields.io/badge/Currently-Online-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
 
