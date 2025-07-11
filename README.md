@@ -28,11 +28,3 @@ I'm a full-stack developer focused on building modern, responsive, and scalable 
 <img src="https://github-readme-stats.vercel.app/api?username=noelpatonog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelpatonog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-
----
-
-## 📫 Contact Me
-
-- 🌐 Portfolio: [yourwebsite.dev](https://yourwebsite.dev)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
