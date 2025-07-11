@@ -1,6 +1,10 @@
-# Hey There!👋
---
-I'm Noel Paton-Og — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
+# Hey There! 👋
+
+I'm **Noel Paton-Og** — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
+
+---
+
+## 🛠 Tech Stack
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -12,4 +16,11 @@ I'm Noel Paton-Og — an application and web developer passionate about building
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-![currently](https://img.shields.io/badge/playing-nothing%20rn-grey) ![VS Code](https://img.shields.io/badge/coding-yes-blue?logo=visual-studio-code) ![Status](https://img.shields.io/badge/status-yes-green)
+---
+
+## 🎧 Now
+
+![Visual Studio Code](https://img.shields.io/badge/Currently-Coding-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Spotify](https://img.shields.io/badge/Listening-Nothing%20rn-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
+
