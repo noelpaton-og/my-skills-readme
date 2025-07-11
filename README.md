@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Noel Paton-Og
+# 👋 Hi there, I'm Noel Paton-og
 
 This is my tech stack:
 
