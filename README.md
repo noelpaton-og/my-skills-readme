@@ -1,10 +1,6 @@
-# 👋 HI THERE  
-
+# Hey There!👋
+--
 I'm Noel Paton-Og — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
-
----
-
-## 🛠 Tech Stack
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
