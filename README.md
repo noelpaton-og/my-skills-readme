@@ -15,7 +15,3 @@ I'm Noel Paton-Og — an application and web developer passionate about building
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-
----
-
-> 💡 *Icons by [SkillIcons.dev](https://skillicons.dev)*
