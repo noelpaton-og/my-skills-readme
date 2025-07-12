@@ -11,6 +11,7 @@ I'm **Noel Paton-og** — an application and web developer passionate about buil
 ![Python](https://skillicons.dev/icons?i=python)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Github](https://skillicons.dev/icons?i=github)
 
